@@ -1,0 +1,33 @@
+/* CSS declarations go here */
+
+
+body {
+  font-size:16px;
+}
+
+#container {
+  position:relative;
+}
+
+#link {
+  font-size:300%;
+  position:absolute;
+  display:block;
+  background:white;
+  padding:20px;
+  border:1px solid green;
+}
+
+#inner {
+  margin:300px 70px 100px;
+  border:1px solid blue;
+  background:#eef;
+}
+
+#inner-clickme {
+  display:block;
+  background:#aaf;
+  border:1px solid blue;
+  margin:70px;
+  padding:40px;
+}
